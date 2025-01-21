@@ -1,0 +1,2 @@
+chromeExecPath=C:/Program Files/Google/Chrome/Application/chrome.exe
+userDataPath=C:/Users/<your-user>/AppData/Local/Google/Chrome/User Data
