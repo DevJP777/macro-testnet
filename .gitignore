@@ -95,5 +95,7 @@ tests/
 execution.log
 
 #gitkeep
-.gitkeep
+data/.gitkeep
+command/.gitkeep
+
 
