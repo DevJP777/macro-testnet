@@ -1,0 +1,31 @@
+{
+	"name": "macro-testnet",
+	"version": "0.0.1",
+	"description": "Macro testnet build in for completing quest or testnet automaticaly",
+	"main": "macroTestnet.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node macroTestnet.js",
+		"macro-testnet": "node macroTestnet.js",
+		"reset-user": "node resetUser.js",
+		"macro-feature": "node macroFeature.js",
+		"format": "prettier --write ."
+	},
+	"author": "devjp777",
+	"license": "ISC",
+	"dependencies": {
+		"@inquirer/prompts": "^7.2.1",
+		"axios": "^1.7.9",
+		"dotenv": "^16.4.7",
+		"hwid": "^0.4.0",
+		"node-machine-id": "^1.1.12",
+		"puppeteer": "^23.11.1",
+		"puppeteer-extra": "^3.3.6",
+		"puppeteer-extra-plugin-stealth": "^2.11.2",
+		"readline-sync": "^1.4.10",
+		"systeminformation": "^5.25.10"
+	},
+	"devDependencies": {
+		"prettier": "^3.4.2"
+	}
+}

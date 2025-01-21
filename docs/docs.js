@@ -1,0 +1,2 @@
+goto>URL,closetab>page>newpage>URL,page>goto>URL,click>selector,type>selector>text-to-type,wait>timeIn-ms,wait>goback,wait>navigation,screenshot>path-to-save-screenshot,metamask>connect>bulk>filepath,metamask>connect>password>yourpassword;
+//# sourceMappingURL=docs.js.map
